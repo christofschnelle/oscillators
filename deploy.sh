@@ -21,7 +21,7 @@ git commit -m 'deploy'
 # Deploy to gh-pages branch
 # Replace YOUR_USERNAME/vue-demo with your actual GitHub repo
 echo "Deploying to GitHub Pages..."
-git push -f git@github.com:YOUR_USERNAME/vue-demo.git master:gh-pages
+git push -f git@github.com:christofschnelle/oscillators.git master:gh-pages
 
 cd ..
 
